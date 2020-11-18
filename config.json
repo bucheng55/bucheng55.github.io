@@ -1,6 +1,6 @@
 {
     "name": "bucheng55",
-    "repo": "blog",
+    "repo": "bucheng55.github.io",
     "client_id": "16415153046c170af06e",
     "client_secret": "8fddeb439c379744a30c16751eccbe1f2b06da0",
     "title": "blog",
@@ -14,12 +14,12 @@
         "首页":"./"
     },
     "friends": {
-        "bucheng55" : "https://bucheng.github.io"
+        "bucheng55" : "https://bucheng55.github.io"
     },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/bucheng55/gitblog",
+            "href" : "https://github.com/bucheng55/bucheng55.github.io",
             "hidden_img" : null,
             "width" : 0
         }
